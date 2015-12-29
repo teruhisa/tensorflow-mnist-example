@@ -12,3 +12,8 @@ python mnist.py
 tensorboard --logdir=/tmp/mnist_logs
 ```
 Then open `localhost:6006` in your browser and open the IMAGES tab.
+
+## Output
+![weight 0](img/weight_0.png)
+![weight 1](img/weight_1.png)
+![weight 2](img/weight_2.png)
